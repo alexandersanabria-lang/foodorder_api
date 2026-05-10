@@ -1,3 +1,4 @@
+# URLs principales del proyecto
 from django.urls import path, include
 
 urlpatterns = [
