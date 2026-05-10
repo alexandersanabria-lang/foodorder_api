@@ -1,3 +1,4 @@
+# Modelos para el gestor de restaurante
 from django.db import models
 
 
