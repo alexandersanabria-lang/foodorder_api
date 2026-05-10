@@ -1,3 +1,4 @@
+# Serializers para Plato y Pedido
 from rest_framework import serializers
 from .models import Plato, Pedido, DetallePedido
 
